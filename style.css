@@ -588,7 +588,7 @@ section .title::after {
 }
 
 .contact .contact-content .info .sub-title {
-    color: #fff;
+    color: grey;
 }
 
 .contact .right form .fields {
